@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1463186564 source:c:\users\adrian\documents\facultad\laboratorio i\tp1_criscione_adrian\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"cadenas.h"
+	"presentacion.h"
+
+1399506914 c:\users\adrian\documents\facultad\laboratorio i\tp1_criscione_adrian\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1463186438 c:\users\adrian\documents\facultad\laboratorio i\tp1_criscione_adrian\cadenas.h
+
+1463186656 c:\users\adrian\documents\facultad\laboratorio i\tp1_criscione_adrian\presentacion.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"cadenas.h"
+
+1464374881 source:d:\users\acriscione\desktop\tp1_criscione_adrian\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"cadenas.h"
+	"presentacion.h"
+
+1464258305 d:\users\acriscione\desktop\tp1_criscione_adrian\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1464380552 d:\users\acriscione\desktop\tp1_criscione_adrian\cadenas.h
+	<iostream>
+	<sstream>
+
+1464380335 d:\users\acriscione\desktop\tp1_criscione_adrian\presentacion.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"cadenas.h"
+
